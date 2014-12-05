@@ -1,0 +1,12 @@
+== Objetivo 1
+
+=== O que carácteriza uma árvore?
+
+Escreva, com suas próprias palavras, o seu conceito de árvore:
+
+____
+
+(Escreva o seu conceito aqui).
+
+____
+
