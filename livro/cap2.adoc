@@ -1,168 +1,117 @@
-== Novo capítulo
+== Árvores
 
 :cap: cap2
 :img: images/{cap}
 :online: {gitrepo}/blob/master/livro/code/{cap}
 :local: code/{cap}
 
+
+=== Introdução
+
+-  what will be learnt in the unit
+
+- Explain what the session will be about, it can be done in one of two forms:
+
+expository:: In this case, the learners are shown a high level view of what they will learn. 
++
+Example: When teaching how to create a web page, ﬁrst show learners some simple 
+pages and say ‘I am going to show you how to create a page like this’. This high level 
+view provides learners with a reference point that helps give meaning to the new bits of 
+knowledge they are going to acquire.
+  
+comparative:: In this case, the teacher reminds learners of something they already know 
+that will be useful in helping them understand the new teaching. 
+_
+Example: When teaching learners how to ﬁnd a percentage difference, the teacher can ﬁrst 
+remind them how to calculate a percentage.
+
+
+.Importância deste capítulo
+****
+-  why that material is important to the learners
+****
+
 .Objetivos do capítulo
 ____
 Ao final deste capítulo você deverá ser capaz de:
 
-1.  *Lembrar* as três hipóteses de previsão e listar os padrões típicos
-de comportamento de dados históricos, *reproduzindo-os* na realização de
-exercícios teóricos, envolvendo os nomes das técnicas de previsão mais
-utilizadas em processos estacionários, com tendência e com
-sazonalidade.
+1. *Entender* o que é uma árvore e suas características básicas,
+*reconhecendo* e *descrevendo* características de árvores apresentadas.
+(Efetivo/factual)
 
-2.  *Entender*  as  diferenças  entre  as  técnicas existentes,
-*comparando* cada uma com as diferentes hipóteses e padrão de dados.
+2. *Entender* as classificações de árvores e propriedades genéricas,
+*exemplificando* árvores de diferentes categorias e *inferindo* suas
+propriedades. (Conhecimento Conceitual)
 
-3.  *Escolher* e aplicar, de forma consciente, uma das técnicas,
-*implementando* um programa específico ou utilizando um aplicativo
-disponível  no mercado.
+3. *Aplicar* as operações básicas de árvores e entender os algoritmos
+de buscas, *executando* as operações básicas e *explicando* os algoritmos
+de busca. (Conhecimento Procedural)
 
-4.  *Analisar*  as  diferentes  medidas  de  erro, *diferenciando-as*,
-*atribuindo* significados de importância e *entendendo* em quais
-circunstâncias  cada uma delas é mais adequada.
+4. *Lembrar* dos conceitos de Rotação e Balanceamento e suas
+aplicabilidades, *reproduzindo* os conceitos e suas aplicações.
+(Conhecimento Procedural)
 
-5.  *Avaliar* os resultados obtidos por meio do emprego da técnica de
-previsão, *estimando* o impacto da acuracidade e das incertezas
-associadas a todo o processo.
+5. *Avaliar* a eficiência dos algoritmos de buscas em árvores,
+*criticando* características das árvores para maximizar a eficiência das
+buscas. (Conhecimento Procedural)
+
+6. *Lembrar* de aplicações de árvores na computação e entender como as
+árvores podem ser armazenadas, *reconhecendo* as aplicações de árvores e
+*explicando* formas de armazenamento das árvores. (Conhecimento
+Metacognitivo)
+
+7. *Criar* uma implementação de árvore em uma linguagem de
+programação, *implementando* as operações básicas de um tipo de árvore
+em uma linguagem de programação. (Metacognitivo)
 
 ____
 
+.Classificação dos objetivos
 [cols="^13,^10,^10,^10,^10,^10,^10", grid="cols",frame="none"]
 |====
 1.2+s| Conhecimento 6+s| Processo Cognitivo
-| Lembrar         |Entender  | Aplicar |  Analisar | Avaliar | Criar
-| Factual  |Objetivo 1|||||
-| Conceitual |Objetivo 2|Objetivo 3||||
-| Procedural |||Objetivo 4|||
-| Metacognitivo ||||||Objetivo 5
+|                 Lembrar  |Entender  | Aplicar |  Analisar  | Avaliar | Criar
+| Factual        |         | 1        |         |            |         |
+| Conceitual     |         | 2        |         |            |         |
+| Procedural     | 4       | 3        | 3       |            | 5       |
+| Metacognitivo  | 6       | 6        |         |            |         |  7
 |  2+s|Conhecimento 2+s|Competência 2+s|Habilidade
 |====
 
+////
 A *elaboração dos objetivos de aprendizagem* e *divisão das seções* do
 capítulo seguem a taxonomia de Bloom revisada, para
 compreender esta classificação recomendo a leitura de  ``Taxonomia de
 Bloom: revisão teórica e apresentação das adequações do instrumento
 para definição de objetivos instrucionai'', disponível em
 http://www.scielo.br/pdf/gp/v17n2/a15v17n2.pdf.
-
-.Dimensão do conhecimento da Taxonomia de Bloom revisada
-image::{img}/bloom.eps[]
+////
 
 
-=== Terminologia
+.Elementos de organização prévia
+- A parte final deste capítulo requer que você possua um compilador
+de uma linguagem de programação de sua preferência instalado, 
+recomendo iniciar o download enquanto estuda as outras seções.
 
-Conhecimento Efetivo/Factual:: Relacionado ao conteúdo básico que 
-o discente deve dominar a fim de que consiga realizar e resolver 
-problemas apoiados nesse conhecimento. Relacionado aos fatos que 
-não precisam ser entendidos ou combinados, apenas reproduzidos 
-como apresentados.
+include::arvore-objetivo1-factual.adoc[]
 
-- Conhecimento da Terminologia; 
+include::arvore-objetivo2-conceitual.adoc[]
 
-=== Detalhes e elementos específicos
+include::arvore-objetivo3-procedural-algoritimos.adoc[]
 
-Conhecimento Efetivo/Factual:: Relacionado ao conteúdo básico que 
-o discente deve dominar a fim de que consiga realizar e resolver 
-problemas apoiados nesse conhecimento. Relacionado aos fatos que 
-não precisam ser entendidos ou combinados, apenas reproduzidos 
-como apresentados.
+include::arvore-objetivo4-procedural-balanceamento.adoc[]
 
-- Conhecimento de detalhes e elementos específicos.
+include::arvore-objetivo5-procedural-eficiencia-busca.adoc[]
 
-=== Classificação e categorização
+include::arvore-objetivo6-meta-armazenamento-aplicacoes.adoc[]
 
-Conhecimento Conceitual:: Relacionado à inter-relação dos 
-elementos básicos num contexto mais elaborado que os discentes 
-seriam capazes de descobrir. Elementos mais simples foram abordados 
-e agora precisam ser conectados. Esquemas, estruturas e modelos 
-foram organizados e explicados. Nessa fase, não é a aplicação de um 
-modelo que é importante, mas a consciência de sua existência.
+include::arvore-objetivo7-meta-implementacao.adoc[]
 
-- Conhecimento de classificação e categorização; 
+=== Auto-Avaliação
 
-=== Princípios e generalizações
-Conhecimento Conceitual:: Relacionado à inter-relação dos 
-elementos básicos num contexto mais elaborado que os discentes 
-seriam capazes de descobrir. Elementos mais simples foram abordados 
-e agora precisam ser conectados. Esquemas, estruturas e modelos 
-foram organizados e explicados. Nessa fase, não é a aplicação de um 
-modelo que é importante, mas a consciência de sua existência.
+Remind learners what the session was about and check that they have learnt it.
 
-- Conhecimento de princípios e generalizações; 
+- at least one self-assessment question.
 
 
-=== Teorias, modelos e estruturas
-Conhecimento Conceitual:: Relacionado à inter-relação dos 
-elementos básicos num contexto mais elaborado que os discentes 
-seriam capazes de descobrir. Elementos mais simples foram abordados 
-e agora precisam ser conectados. Esquemas, estruturas e modelos 
-foram organizados e explicados. Nessa fase, não é a aplicação de um 
-modelo que é importante, mas a consciência de sua existência.
-
-- Conhecimento de teorias, modelos e estruturas.
-
-=== Conteúdos específicos, habilidades e algoritmos
-Conhecimento Procedural:: relacionado ao conhecimento de ``como 
-realizar alguma coisa'' utilizando métodos, critérios, algoritmos e 
-técnicas. Nesse momento, o conhecimento abstrato começa a ser 
-estimulado, mas dentro de um contexto único e não interdisciplinar.
-
-- Conhecimento de conteúdos específicos, habilidades e algoritmos; 
-
-=== Técnicas específicas e métodos
-Conhecimento Procedural:: Relacionado ao conhecimento de ``como 
-realizar alguma coisa'' utilizando métodos, critérios, algoritmos e 
-técnicas. Nesse momento, o conhecimento abstrato começa a ser 
-estimulado, mas dentro de um contexto único e não interdisciplinar.
-
-- Conhecimento de técnicas específicas e métodos; 
-
-=== Critérios e percepção de como e quando usar um procedimento específico.
-Conhecimento Procedural:: Relacionado ao conhecimento de ``como 
-realizar alguma coisa'' utilizando métodos, critérios, algoritmos e 
-técnicas. Nesse momento, o conhecimento abstrato começa a ser 
-estimulado, mas dentro de um contexto único e não interdisciplinar.
-
-- Conhecimento de critérios e percepção de como e quando usar um procedimento específico.
-
-=== Conhecimento estratégico
-Conhecimento Metacognitivo:: Relacionado ao reconhecimento da 
-cognição em geral e da consciência da amplitude e profundidade de 
-conhecimento adquirido de um determinado conteúdo. Em contraste 
-com o conhecimento procedural, esse conhecimento é relacionado 
-à interdisciplinaridade. A ideia principal é utilizar conhecimentos 
-previamente assimilados (interdisciplinares) para resolução de 
-problemas e/ou a escolha do melhor método, teoria ou estrutura.
-
-- Conhecimento estratégico; 
-
-=== Contextos preferenciais e situações de aprendizagem (estilos)
-Conhecimento Metacognitivo:: Relacionado ao reconhecimento da 
-cognição em geral e da consciência da amplitude e profundidade de 
-conhecimento adquirido de um determinado conteúdo. Em contraste 
-com o conhecimento procedural, esse conhecimento é relacionado 
-à interdisciplinaridade. A ideia principal é utilizar conhecimentos 
-previamente assimilados (interdisciplinares) para resolução de 
-problemas e/ou a escolha do melhor método, teoria ou estrutura.
-
-- Conhecimento sobre atividades cognitivas  incluindo contextos preferenciais e situações de aprendizagem (estilos); 
-
-=== Autoconhecimento
-Conhecimento Metacognitivo:: Relacionado ao reconhecimento da 
-cognição em geral e da consciência da amplitude e profundidade de 
-conhecimento adquirido de um determinado conteúdo. Em contraste 
-com o conhecimento procedural, esse conhecimento é relacionado 
-à interdisciplinaridade. A ideia principal é utilizar conhecimentos 
-previamente assimilados (interdisciplinares) para resolução de 
-problemas e/ou a escolha do melhor método, teoria ou estrutura.
-
-- Autoconhecimento
-
-=== Recapitulando
-
-Revisão do que foi aprendido. Não apresentar nada novo.
+ 

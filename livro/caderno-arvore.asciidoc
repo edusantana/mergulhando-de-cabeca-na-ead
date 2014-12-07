@@ -2,7 +2,7 @@
 
 == Objetivo 1
 
-=== O que carácteriza uma árvore?
+=== O que caracteriza uma árvore?
 
 Escreva, com suas próprias palavras, o seu conceito de árvore:
 
@@ -12,3 +12,17 @@ ____
 
 ____
 
+=== Verificando o aprendizado
+
+Os dados da árvore (a) já foram preenchidos, agora preencha os dados
+da árvore (b):
+
+*Árvore (b)* +
+Nível de nó:  +
+Pai do nó:  +
+Filho(s) do nó:  +
+Caminho até o nó: +
+Grau de nó:  +
+Grau da árvore: +
+Tamanho da Árvore: +
+Maior folha: +
