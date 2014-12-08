@@ -1,0 +1,54 @@
+=== O que é Design Instrucional?
+
+////
+*Entender* o que é design instrucional (DI), *resumindo* o seu propósito.
+
+.Organização prévia
+
+- caderno digital
+////
+
+==== Introdução
+
+
+
+.Questões a serem respondidas
+****
+. O que é uma árvore e como ela difere das demais estruturas?
+. Como árvores são representadas?
+. O que é um nó? 
+. Quais as relações (de parentesco) entre os nós?
+. Que são folhas, raiz e nós terminais de uma árvore?
+. O que é o grau de um nó?
+. Qual o nível de um nó?
+. Qual o tamanho de uma árvore?
+****
+
+==== Histórico das teorias relacionadas ao Design Instrucional
+
+Apresentarei este histórico utilizando extratos dos slides do curso
+``MÍDIA DESIGN INSTRUCIONAL'' de autoria da Drª Liamara Scortegagna e Dr.
+Eduardo Barrére.
+
+Gostaria da sua atenção especial nos seguintes trechos:
+
+- Design Instrucional sendo definido como um *processo sistemático*;
+- Bloom lançando uma *taxonomia dos objetivos educacionais*;
+
+++++
+<remark>Wrap
+Entender o que é design instrucional (DI),  resumindo o seu propósito
+    páginas: B1-2 B6 B9-17
+    C6
+</remark>
+++++
+
+<<<
+
+Agora que você já leu um pouco sobre Design Instrucional, registre
+o seu entendimento sobre ele.
+
+
+
+Para você, o que é Design Instrucional?
+
