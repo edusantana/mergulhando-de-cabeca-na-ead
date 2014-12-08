@@ -30,15 +30,16 @@ que foi adotada no livro:
 |====
 
 [[atividade_designer_autores]]
-==== Atividade: Resolução de problemas entre designer instrucional e autores
+==== Atividade: Designer instrucional na EAD e os autores
 
 Agora que você conhece um pouco mais o trabalho do Designer Instrucional, 
 *liste* pelo menos três atribuições dele que você teria dificuldades 
 (ou menos afinidade) em realizar sozinho(a):
 
-* Atribuição 1: (escreva aqui)
-* Atribuição 2: (escreva aqui)
-* Atribuição 3: (escreva aqui)
+[verse]
+Atribuição: (escreva aqui)
+Atribuição: (escreva aqui)
+Atribuição: (escreva aqui)
 
 Você reconhece a necessidade de um Designer Instrucional na equipe 
 de um curso a distância? Marque com um &#x2718; na opção que melhor
