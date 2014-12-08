@@ -1,0 +1,71 @@
+=== Designer Instrucional para ODL
+
+////
+*Entender* a relação do designer e os autores e *lembrar* o que é ODL 
+(Open Distance Learning), *classificando* quais
+tarefas são do designer e quais dos autores, *reconhecendo* a
+definição de ODL e *reproduzindo* a terminologia adotada no livro.
+
+.Organização prévia
+
+- caderno digital
+////
+
+==== Introdução
+
+.Questões a serem respondidas
+****
+. O que é Open Distance Learning (ODL)?
+. Como funciona o Open Distance Learning (ODL)?
+. Qual a terminologia que utilizaremos no curso?
+. Qual a relação entre ODL e os professores do nosso curso?
+. Qual o propósito do Design Instrucional para os professores de EAD?
+****
+
+==== Open Distance Learning (ODL): o que é?
+
+Uma das principais fontes de estudo que utilizaremos é o livro:
+_Creating learning materials for open and distance learning: A Handbook
+for Authors and Instructional Designers_. Este livro{empty}footnote:[Este 
+livro ensina como realizar o design instrucional de cursos,
+mesmo quando não há internet ou energia disponível para os alunos -- 
+que são as condições de diversas comunidades na áfrica.] foi produzido pela 
+_Commonwealth of Learning_ (http://www.col.org) que tem parceria com
+a UNESCO para contribuir com a educação no mundo.
+
+Nas páginas seguintes apresentam um trecho do livro que explica:
+
+ODL:: 
+O que é ODL e sua filosofia.
+
+Terminologia:: Nestre trecho será apresentado a terminologia utilizada
+no livro, ela é essencial para que possamos compreender o seu conteúdo
+com mais precisão. Ter atenção às diferenças entres _Learner_ e _Student_,
+entre _Learning aim_ e _Learning objective/outcome_ e ao termo *Wrap-round materials*.
+
+++++
+<remark>Wrap ODL
+    páginas: D1 D10-11
+</remark>
+++++
+
+<<<
+
+[[atividade_odl_terminologia]]
+==== Atividade: ODL e Terminologia
+
+image::images/patividade.pdf[]
+
+Preencha a seguinte tabela com o seu entendimento sobre a terminologia
+que foi adotada no livro.
+
+.Terminologia
+[cols="1,3a"]
+|====
+| Diferença entre _Learner_ e _Student_:
+| {empty}
+| Diferença entre _Learning aim_ e _Learning objective/outcome_:
+| {empty}
+| O que seria _Wrap-round materials_:
+| {empty}
+|====

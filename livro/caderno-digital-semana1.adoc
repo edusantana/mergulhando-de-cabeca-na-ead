@@ -1,10 +1,29 @@
 = Caderno Digital: Semana 1
 
-== Objetivo 1
+=== Objetivo 1
 
-=== Atividade: Entendimento sobre Design Instrucional
+==== Atividade: Entendimento sobre Design Instrucional
 
 Para você, o que é Design Instrucional?
 
 > Registre sua resposta aqui.
 
+
+=== Objetivo 2
+
+[[atividade_odl_terminologia]]
+==== Atividade: ODL e Terminologia
+
+Preencha a seguinte tabela com o seu entendimento sobre a terminologia
+que foi adotada no livro:
+
+.Terminologia
+[cols="1,3a"]
+|====
+| Diferença entre _Learner_ e _Student_:
+| {empty}
+| Diferença entre _Learning aim_ e _Learning objective/outcome_:
+| {empty}
+| O que seria _Wrap-round materials_:
+| {empty}
+|====

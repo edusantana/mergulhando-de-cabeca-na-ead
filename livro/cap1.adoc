@@ -9,16 +9,16 @@
 ____
 Ao final desta semana você deverá ser capaz de:
 
-*Entender* o que é design instrucional (DI), *resumindo* o seu propósito.
+*Entender* o que é design instrucional (DI),  *resumindo* o propósito 
+do design instrucional.
 
-*Entender* a relação do designer e os autores, *classificando* quais
-tarefas são do designer e quais dos autores.
+*Entender* a relação do designer e os autores e *lembrar* o que é ODL 
+(Open Distance Learning), *classificando* quais
+tarefas são do designer e quais dos autores, *reconhecendo* a
+definição de ODL e *reproduzindo* a terminologia adotada no livro.
 
 *Lembrar* do modelo ADDIE de produção, *reconhecendo* suas etapas e
 *identificando* os produtos das etapas de Análise e Planejamento.
-
-*Lembrar* o que é ODL (Open Distance Learning), *reconhecendo* a
-definição de ODL e *reproduzindo* a terminologia adotada no livro.
 
 *Criar* o perfil do aluno do nosso curso, *produzindo* o perfil do
 aluno que você tomará como base para produção do seu material.
@@ -41,21 +41,37 @@ ____
 
 .Organização prévia
 ****
-Durante a leitura deste capítulo será solicito que realize 
-algumas atividades, preparamos duas alternativas para realizá-las:
+Durante a leitura deste capítulo será solicitado de você que realize 
+algumas atividades. preparamos duas alternativas para você realizá-las:
 
 No computador:: Se você optar por responder as atividades escrevendo
 no computador então você deverá baixar acessar o caderno digital da
 semana, copiar o conteúdo e salvá-lo no editor de texto que escolher. 
-Faça isso agora, acesse 
+Faça isso agora, acesse https://github.com/edusantana/mergulhando-de-cabeca-na-ead/blob/master/livro/caderno-digital-semana1.adoc
+copie o texto, e salve em seu editor de texto. Mantenha o arquivo
+aberto enquanto estuda, sempre que for solicitado realizar uma atividade
+retorne para executá-la.
 
-No papel:: 
+No papel:: Se você prefere o bom lápis e papel, então *precisará 
+imprimir as páginas que contém as seções de atividades*, são elas:
++++<xref linkend="atividade_di" xrefstyle="select: label pageabbrev quotedtitle"/>+++,
++++<xref linkend="atividade_odl_terminologia" xrefstyle="select: label pageabbrev quotedtitle"/>+++,
++
+Você pode clicar nas seções para ir para as páginas indicadas, ou
+encontrar manualmente o número da página entre colchetes: `[ ]`.
++
+*Faça isso agora, imprima as páginas e pegue uma caneta.*
 
+A seguinte iconografia informa que você está se deparando com uma
+atividade que poderá imprimir e realizar no papel ou no computador:
 
+image::images/patividade.pdf[]
 
 ****
 
 include::s1-ob1-design-instrucional-definicao.adoc[]
+include::s1-ob2-designer-autores-odl.adoc[]
+
 
 O que é design instrucional?
 Design instrucional é um processo, técnica ou uma profissão?

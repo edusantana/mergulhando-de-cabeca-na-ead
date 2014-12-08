@@ -1,7 +1,7 @@
 === O que é Design Instrucional?
 
 ////
-*Entender* o que é design instrucional (DI), *resumindo* o seu propósito.
+*Entender* o que é design instrucional (DI),  *resumindo* o propósito do design instrucional.
 
 .Organização prévia
 
@@ -10,30 +10,41 @@
 
 ==== Introdução
 
+Antes de falar sobre Design Instrucional, vamos apreciar o design dos
+seguintes objetos:
 
+.Design para apreciação
+image::images/cap1/design-pessimo.pdf[]
+
+Como você se sentiria se fosse _obrigado_ a utilizar objetos com
+designs semelhantes para realizar as atividades que lhes seriam atribuídas
+normalmente? Que *escolhas* do design dificulta que o objeto seja utilizado
+para cumprir o seu *propósito*? Reflita um pouco!
+
+Todo design envolve escolhas que irão influenciar a eficiência da utilização
+do objeto para cumprir o propósito para o qual ele foi elaborado. 
+
+Durante os próximos meses estaremos empenhado em auxiliá-lo a realizar
+o Design Instrucional da sua disciplina na EAD, dando ênfase no material
+didático que será concebido ou adaptado.
 
 .Questões a serem respondidas
 ****
-. O que é uma árvore e como ela difere das demais estruturas?
-. Como árvores são representadas?
-. O que é um nó? 
-. Quais as relações (de parentesco) entre os nós?
-. Que são folhas, raiz e nós terminais de uma árvore?
-. O que é o grau de um nó?
-. Qual o nível de um nó?
-. Qual o tamanho de uma árvore?
+. Qual o contexto histórico do surgimento do Design Instrucional?
+. Quais as definições de Design Instrucional?
 ****
 
-==== Histórico das teorias relacionadas ao Design Instrucional
+==== Design Instrucional: história e conceitos
 
-Apresentarei este histórico utilizando extratos dos slides do curso
-``MÍDIA DESIGN INSTRUCIONAL'' de autoria da Drª Liamara Scortegagna e Dr.
-Eduardo Barrére.
+Nas próximas páginas irei fazer um recorte sobre vários materiais
+que falam sobre design instrucional.
 
-Gostaria da sua atenção especial nos seguintes trechos:
+Gostaria da sua atenção especial para os seguintes pontos:
 
-- Design Instrucional sendo definido como um *processo sistemático*;
-- Bloom lançando uma *taxonomia dos objetivos educacionais*;
+- Definições de Design Instrucional (ou desenho instrucional);
+- Laçamento da *taxonomia dos objetivos educacionais* que ficou
+conhecida como *Taxonomia de Bloom* (Na próxima semana, nós 
+utilizaremos a atualização desta taxonomia para elaborar nossos objetivos);
 
 ++++
 <remark>Wrap
@@ -50,11 +61,12 @@ Entender o que é design instrucional (DI),  resumindo o seu propósito
 
 image::images/patividade.pdf[]
 
-
-Agora que você já leu um pouco sobre Design Instrucional, registre
+Agora que você já leu um pouco sobre Design Instrucional, *registre*
 o seu entendimento sobre ele.
 
 Para você, o que é Design Instrucional?
 
 image::images/caixa6cm.pdf[]
+
+
 
