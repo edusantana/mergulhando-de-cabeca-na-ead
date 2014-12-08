@@ -45,10 +45,16 @@ Entender o que é design instrucional (DI),  resumindo o seu propósito
 
 <<<
 
+[[atividade_di]]
+==== Atividade: Entendimento sobre Design Instrucional
+
+image::images/patividade.pdf[]
+
+
 Agora que você já leu um pouco sobre Design Instrucional, registre
 o seu entendimento sobre ele.
 
-
-
 Para você, o que é Design Instrucional?
+
+image::images/caixa6cm.pdf[]
 
