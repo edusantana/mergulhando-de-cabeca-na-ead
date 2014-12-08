@@ -45,13 +45,13 @@ Você reconhece a necessidade de um Designer Instrucional na equipe
 de um curso a distância? Marque com um &#x2718; na opção que melhor
 descreve o seu pensamento:
 
-- [ ] Não, os professores já fazem isto informalmente.
-- [ ] Não, os professores podem ser capacitados e incorporar estas funções.
-- [ ] Não, estas funções não são essenciais em um curso a distância.
-- [ ] Sim, é necessário.
+-[] Não, os professores já fazem isto informalmente.
+-[] Não, os professores podem ser capacitados e incorporar estas funções.
+-[] Não, estas funções não são essenciais em um curso a distância.
+-[] Sim, é necessário.
 
 O curso em que você trabalha possui um Designer Instrucional?
 
-- [ ] Não
-- [ ] Sim. Quem é? `____________________________`
+-[] Não
+-[] Sim. Quem é? `____________________________`
 
