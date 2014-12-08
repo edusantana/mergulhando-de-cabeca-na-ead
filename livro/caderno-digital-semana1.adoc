@@ -21,9 +21,15 @@ que foi adotada no livro:
 [cols="1,3a"]
 |====
 | Diferença entre _Learner_ e _Student_:
-| {empty}
+| 
+[quote]
+(Escreva o seu entedimento aqui)
 | Diferença entre _Learning aim_ e _Learning objective/outcome_:
-| {empty}
+| 
+[quote]
+(Escreva o seu entedimento aqui)
 | O que seria _Wrap-round materials_:
-| {empty}
+| 
+[quote]
+(Escreva o seu entedimento aqui)
 |====
