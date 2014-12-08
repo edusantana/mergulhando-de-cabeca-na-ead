@@ -32,15 +32,17 @@ que foi adotada no livro:
 [[atividade_designer_autores]]
 ==== Atividade: Resolução de problemas entre designer instrucional e autores
 
-image::images/patividade.pdf[]
+Agora que você conhece um pouco mais o trabalho do Designer Instrucional, 
+*liste* pelo menos três atribuições dele que você teria dificuldades 
+(ou menos afinidade) em realizar sozinho(a):
 
-Liste pelo menos três atribuições do Designer Instrucional que você 
-teria dificuldades em realizar sozinho(a):
-
-image::images/caixa6cm.pdf[]
+* Atribuição 1: (escreva aqui)
+* Atribuição 2: (escreva aqui)
+* Atribuição 3: (escreva aqui)
 
 Você reconhece a necessidade de um Designer Instrucional na equipe 
-de um curso a distância?
+de um curso a distância? Marque com um &#x2718; na opção que melhor
+descreve o seu pensamento:
 
 - [ ] Não, os professores já fazem isto informalmente.
 - [ ] Não, os professores podem ser capacitados e incorporar estas funções.
@@ -51,3 +53,4 @@ O curso em que você trabalha possui um Designer Instrucional?
 
 - [ ] Não
 - [ ] Sim. Quem é? `____________________________`
+
