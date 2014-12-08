@@ -18,18 +18,13 @@ Preencha a seguinte tabela com o seu entendimento sobre a terminologia
 que foi adotada no livro:
 
 .Terminologia
-[cols="1,3a"]
+[cols="1,3a", options="header"]
 |====
+| Terminologia | Seu entendimento
 | Diferença entre _Learner_ e _Student_:
 | 
-[quote]
-(Escreva o seu entedimento aqui)
 | Diferença entre _Learning aim_ e _Learning objective/outcome_:
 | 
-[quote]
-(Escreva o seu entedimento aqui)
 | O que seria _Wrap-round materials_:
 | 
-[quote]
-(Escreva o seu entedimento aqui)
 |====
