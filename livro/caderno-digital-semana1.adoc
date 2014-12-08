@@ -28,3 +28,26 @@ que foi adotada no livro:
 | O que seria _Wrap-round materials_:
 | 
 |====
+
+[[atividade_designer_autores]]
+==== Atividade: Resolução de problemas entre designer instrucional e autores
+
+image::images/patividade.pdf[]
+
+Liste pelo menos três atribuições do Designer Instrucional que você 
+teria dificuldades em realizar sozinho(a):
+
+image::images/caixa6cm.pdf[]
+
+Você reconhece a necessidade de um Designer Instrucional na equipe 
+de um curso a distância?
+
+- [ ] Não, os professores já fazem isto informalmente.
+- [ ] Não, os professores podem ser capacitados e incorporar estas funções.
+- [ ] Não, estas funções não são essenciais em um curso a distância.
+- [ ] Sim, é necessário.
+
+O curso em que você trabalha possui um Designer Instrucional?
+
+- [ ] Não
+- [ ] Sim. Quem é? `____________________________`

@@ -56,6 +56,7 @@ No papel:: Se você prefere o bom lápis e papel, então *precisará
 imprimir as páginas que contém as seções de atividades*, são elas:
 +++<xref linkend="atividade_di" xrefstyle="select: label pageabbrev quotedtitle"/>+++,
 +++<xref linkend="atividade_odl_terminologia" xrefstyle="select: label pageabbrev quotedtitle"/>+++,
++++<xref linkend="atividade_designer_autores" xrefstyle="select: label pageabbrev quotedtitle"/>+++,
 +
 Você pode clicar nas seções para ir para as páginas indicadas, ou
 encontrar manualmente o número da página entre colchetes: `[ ]`.

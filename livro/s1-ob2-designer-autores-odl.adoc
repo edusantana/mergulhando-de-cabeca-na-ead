@@ -33,15 +33,21 @@ que são as condições de diversas comunidades na áfrica.] foi produzido pela
 _Commonwealth of Learning_ (http://www.col.org) que tem parceria com
 a UNESCO para contribuir com a educação no mundo.
 
-Nas páginas seguintes apresentam um trecho do livro que explica:
+
+[WARNING]
+.Wrap
+====
+As páginas seguintes apresentam um trecho do livro que explica:
 
 ODL:: 
 O que é ODL e sua filosofia.
 
-Terminologia:: Nestre trecho será apresentado a terminologia utilizada
+Terminologia:: Neste trecho será apresentado a terminologia utilizada
 no livro, ela é essencial para que possamos compreender o seu conteúdo
 com mais precisão. Ter atenção às diferenças entres _Learner_ e _Student_,
 entre _Learning aim_ e _Learning objective/outcome_ e ao termo *Wrap-round materials*.
+
+====
 
 ++++
 <remark>Wrap ODL
@@ -52,20 +58,127 @@ entre _Learning aim_ e _Learning objective/outcome_ e ao termo *Wrap-round mater
 <<<
 
 [[atividade_odl_terminologia]]
-==== Atividade: ODL e Terminologia
+==== Atividade: Terminologia do livro
 
 image::images/patividade.pdf[]
 
-Preencha a seguinte tabela com o seu entendimento sobre a terminologia
-que foi adotada no livro.
+Registre na tabela seguinte o seu entendimento sobre a terminologia
+que foi adotada no livro:
 
 .Terminologia
-[cols="1,3a"]
+[cols="1,3a", options="header"]
 |====
+| Terminologia | Seu entendimento
 | Diferença entre _Learner_ e _Student_:
-| {empty}
+| 
 | Diferença entre _Learning aim_ e _Learning objective/outcome_:
-| {empty}
+| 
 | O que seria _Wrap-round materials_:
-| {empty}
+| 
 |====
+
+==== Relação de ODL com nosso material didático
+
+(((ODL, UAB)))
+
+Todo o material didático produzido pela rede UAB pode ser utilizado
+pelas instituições de seu rede. Inclusive algumas de nossas disciplinas
+utilizam o material produzido por outras instituições.
+
+Atualmente nosso curso é pioneiro, pois também disponibilizamos todo 
+o conteúdo na internet para qualquer pessoal baixar.
+
+O material que você produzir também será disponibilizado desta forma.
+
+TIP: Lembre-se que você todos somos beneficiados pela abertura do material 
+didático, você poderá selecionar os materiais abertos para inclusão
+no design da sua disciplina.
+
+==== Propósito do Design Instrucional para os professores de EAD
+
+O design instrucional para EAD permite planejar a otimização dos 
+recursos para possibilitar que seus alunos tenham sucesso na sala
+de aula virtual de sua disciplina.
+
+==== Designer Instrucional, Professores e Autores
+
+(((Designer Instruciona))) (((Professor))) (((Autor)))
+
+O *designer instrucional* é um profissional cujo o escopo de suas 
+atribuições ultrapassa os limites de uma disciplina.
+
+Durante a leitura dos textos podemos perceber que muitas das 
+atribuições do Designer Instrucional poderia ser interpretadas como 
+sendo do professor, tais como: planejar atividades, avaliações, 
+material didático, etc.
+
+Para simplificar você pode imaginar como o professor sendo um 
+especialista no conteúdo e o Designer Instrucional como sendo
+um especialista em educação e comunicação. Desta forma, teremos dois 
+especialistas trabalhando juntos para otimizar o aprendizado dos 
+alunos. Esta relação ficará mais clara nos slides mais aditante.
+
+Quando lemos trechos do livro adotado, também é fácil confundir os
+papeis do designer com o do autor/professor conteudista. Mas ele 
+deixou claro no início do livro que ele assume o Designer Instrucional
+como também sendo o autor do conteúdo:
+
+[quote]
+"For simplicity, this handbook addresses primarily the first 
+approach -- that in which a single writer is both content-provider 
+and instructional designer."
+
+Como professor, você está sendo capacitado a incorporar as técnicas 
+de design instrucional em sua disciplina.
+
+[WARNING]
+.Wrap
+====
+As próximas páginas são inclusão de material didático, ter atenção
+aos seguintes pontos:
+
+* Atribuições do Designer Instrucional;
+* Problemas que podem surgir quando o designer instrucional e os 
+autores estão trabalhando juntos e as estratégias para solucioná-los;
+ 
+====
+
+
+++++
+<remark>Wrap
+designer instrucional
+    páginas: B38-40 B42-43 B45-53 D9 D46-48
+</remark>
+++++
+
+<<<
+
+[[atividade_designer_autores]]
+==== Atividade: Resolução de problemas entre designer instrucional e autores
+
+image::images/patividade.pdf[]
+
+Agora que você conhece um pouco mais o trabalho do Designer Instrucional, 
+*liste* pelo menos três atribuições dele que você teria dificuldades 
+(ou menos afinidade) em realizar sozinho(a):
+
+image::images/caixa6cm.pdf[]
+
+Você reconhece a necessidade de um Designer Instrucional na equipe 
+de um curso a distância? Marque com um &#x2718; na opção que melhor
+descreve o seu pensamento:
+
+- [ ] Não, os professores já fazem isto informalmente.
+- [ ] Não, os professores podem ser capacitados e incorporar estas funções.
+- [ ] Não, estas funções não são essenciais em um curso a distância.
+- [ ] Sim, é necessário.
+
+O curso em que você trabalha possui um Designer Instrucional?
+
+- [ ] Não
+- [ ] Sim. Quem é? `____________________________`
+
+NOTE: Não há resposta certa ou errada aqui. Estes questionamentos 
+estão aqui para possibilitar sua reflexão sobre o papel deste 
+profissional na EAD. 
+

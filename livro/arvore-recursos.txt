@@ -1,3 +1,16 @@
+PDFs
+http://www.univasf.edu.br/~jorge.cavalcanti/Mat_Disc_Parte10.pdf ****
+
+http://claudiaboeres.pbworks.com/f/CursoTeoriaDosGrafoAula08.pdf *
+
+
+http://www.dsc.ufcg.edu.br/~abrantes/CursosAnteriores/TG051/arvores.pdf *
+
+Paginas
+
+http://www.professeurs.polymtl.ca/michel.gagnon/Disciplinas/Bac/Grafos/Arvores/arvores.html
+
+
 ==== Vídeos ====
 Aula 67 Introdução sobre Árvore (5:25): 
 http://youtu.be/iLvpaqAoVD8
