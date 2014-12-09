@@ -20,23 +20,6 @@ definição de ODL e *reproduzindo* a terminologia adotada no livro.
 3. *Lembrar* do modelo ADDIE de produção, *reconhecendo* suas etapas e
 *identificando* os produtos das etapas de Análise e Planejamento.
 
-*Criar* o perfil do aluno do nosso curso, *produzindo* o perfil do
-aluno que você tomará como base para produção do seu material.
-
-*Analisar* os tipos de terias de aprendizagem, *concluindo* em que
-condições cada uma delas seria melhor empregada. 
-
-*Entender* os tipos de design instrucional, *exemplificando* a relação
-delas com as teorias de aprendizagem.
-
-*Lembrar* a diferença entre livros tradicionais e livros para ODL,
-*reproduzindo* a diferença entre eles e *listando* alguns
-dispositivos de instrução (_Embedded devices_).
-
-*Lembrar* do fluxo de decisão de criar ou adaptar um material
-existente, *reconhecendo* o fluxo e os dispositivos utilizados na
-adaptação.
-
 ____
 
 .Organização prévia
