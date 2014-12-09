@@ -9,15 +9,15 @@
 ____
 Ao final desta semana você deverá ser capaz de:
 
-*Entender* o que é design instrucional (DI),  *resumindo* o propósito 
+1. *Entender* o que é design instrucional (DI),  *resumindo* o propósito 
 do design instrucional.
 
-*Entender* a relação do designer e os autores e *lembrar* o que é ODL 
+2. *Entender* a relação do designer e os autores e *lembrar* o que é ODL 
 (Open Distance Learning), *classificando* quais
-tarefas são do designer e quais dos autores, *reconhecendo* a
+tarefas do designer você possui menos afinidade, *reconhecendo* a
 definição de ODL e *reproduzindo* a terminologia adotada no livro.
 
-*Lembrar* do modelo ADDIE de produção, *reconhecendo* suas etapas e
+3. *Lembrar* do modelo ADDIE de produção, *reconhecendo* suas etapas e
 *identificando* os produtos das etapas de Análise e Planejamento.
 
 *Criar* o perfil do aluno do nosso curso, *produzindo* o perfil do
@@ -72,6 +72,7 @@ image::images/patividade.pdf[]
 
 include::s1-ob1-design-instrucional-definicao.adoc[]
 include::s1-ob2-designer-autores-odl.adoc[]
+include::s1-ob3-addie.adoc[]
 
 
 O que é design instrucional?

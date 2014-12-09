@@ -9,7 +9,7 @@ task :wrap do
   D="/home/santana/Dropbox/pigead/biblioteca/design-instrucional/pub_odlinstdesignHB.pdf"
 
   OBJETIVO1 = "B1-2 B6 B9-17 C6"
-  OBJETIVO2 = "D1 D10-11 A9-10 B38-40 B42-43 B45-53 D9 D46-48"
+  OBJETIVO2 = "D1 D10-11" + " A9-10 " + "B38-40 B42-43 B45-58 B60-61 B69-72 B96-99 D9 D46-48"
   
   sh "pdftk  A=#{A} B=#{B} C=#{C} D=#{D} cat A1-6 #{OBJETIVO1} A7-8 #{OBJETIVO2} A11-end  output releases/master/wrap.pdf"
   sh "xdg-open releases/master/wrap.pdf"

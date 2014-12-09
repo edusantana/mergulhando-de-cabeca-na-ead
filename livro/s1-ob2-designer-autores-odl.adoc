@@ -159,7 +159,7 @@ autores estão trabalhando juntos e as estratégias para solucioná-los;
 ++++
 <remark>Wrap
 designer instrucional
-    páginas: B38-40 B42-43 B45-53 D9 D46-48
+    páginas: B38-40 B42-43 B45-58 B60-61 B69-72 B96-99 D9 D46-48
 </remark>
 ++++
 
