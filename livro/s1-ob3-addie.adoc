@@ -1,0 +1,133 @@
+=== Modelo ADDIE
+
+////
+3. *Lembrar* do modelo ADDIE de produção, *reconhecendo* suas etapas e
+*identificando* os produtos das etapas de Análise e Planejamento.
+
+
+.Organização prévia
+
+- caderno digital
+////
+
+==== Introdução
+
+.Questões a serem respondidas
+****
+. Fui escolhido para elaborar um livro para EAD, eu já posso começar a escrever?
+. Quais as etapas de produção do livro?
+. O que é o modelo ADDIE?
+. O que preciso para começar a escrever o livro?
+****
+
+==== Design Instrucional e o Modelo ADDIE
+
+(((ADDIE)))
+
+Com certeza alguns autores poderiam estarem ansiosos para começar a 
+escrever o livro, e talvez já tenha até iniciado.
+
+Mas realizar o design instrucional implica em estabelecer processos 
+para planejar, produzir e avaliar o produto. Nós utilizaremos um misto
+de dois modelos de processos na produção: *ADDIE* e *ARCS* (que veremos depois).
+N
+o modelo *ADDIE* (cada letra corresponde ao nome da etapa
+em ingles) temos as seguintes etapas:
+
+- **A**nalysis
+- **D**esign
+- **D**evelopment (a atividade _escrever o material didático_ está contida aqui )
+- **I**mplementation
+- **E**valuation
+
+Ao término do processo você terá um entendimento amplo sobre os dois 
+processos, mas, neste momento, vamos nos ater apenas identificar os
+produtos finais das duas primeiras que antecedem a escrita do modelo *ADDIE*.
+
+[WARNING]
+.Wrap
+====
+As páginas seguintes apresentam o modelo ADDIE para produção de 
+livros, com suas respectivas etapas, e as tarefas e produtos
+delas.
+====
+
+++++
+<remark>Wrap Addie
+    páginas: B26 B30-36 D49-50
+</remark>
+++++
+
+<<<
+
+[[atividade_influencia_da_analise_na_escrita]]
+==== Atividade: Influência dos produtos da etapa análise na escrita
+
+image::images/patividade.pdf[]
+
+Um dos modelos de processos que utilizaremos na nossa produção é o ADDIE. 
+Neste momento estamos nos focando apenas nas duas primeiras etapas que 
+antecedem a escrita dos conteúdos: Análise e Planejamento. 
+*Verifique* os produtos finais destas etapas.
+
+Para cada um dos produtos finais da etapa de análise *responda*: 
+como ele iria influenciaria a sua escrita do livro?
+
+
+|====
+^s| Influência dos Produtos finais da etapa Análise
+| Influência do produto final _Diagnóstico das necessidades_ sua escrita:
+
++
+
++
+
++
+
+| Influência do produto final _Análise do público-alvo_ sua escrita:
+
++
+
++
+
++
+
+| Influência do produto final _Planilha de cronograma_ sua escrita:
+
++
+
++
+
++
+
+| Influência do produto final _Planilha de custo estimado_ sua escrita:
+
++
+
++
+
++
+
+| Influência do produto final _Definição dos recursos humanos, materiais, tecnológicos e financeiros_ sua escrita:
+
++
+
++
+
++
+|====
+
+
+////
+^s| Influência dos Produtos finais da etapa Planejamento
+| Influência do produto final _Definição dos recursos humanos, materiais, tecnológicos e financeiros_ sua escrita:
+
+| Estruturação de conteúdo |
+| Estruturação de atividades |
+| Projeto ou mapa do curso |
+
+EU-> Nós. verbo também.
+
+////
+
+

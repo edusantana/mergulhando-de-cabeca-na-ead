@@ -56,7 +56,8 @@ No papel:: Se você prefere o bom lápis e papel, então *precisará
 imprimir as páginas que contém as seções de atividades*, são elas:
 +++<xref linkend="atividade_di" xrefstyle="select: label pageabbrev quotedtitle"/>+++,
 +++<xref linkend="atividade_odl_terminologia" xrefstyle="select: label pageabbrev quotedtitle"/>+++,
-+++<xref linkend="atividade_designer_autores" xrefstyle="select: label pageabbrev quotedtitle"/>+++,
++++<xref linkend="atividade_designer_autores" xrefstyle="select: label pageabbrev quotedtitle"/>+++ e
++++<xref linkend="atividade_influencia_da_analise_na_escrita" xrefstyle="select: label pageabbrev quotedtitle"/>+++.
 +
 Você pode clicar nas seções para ir para as páginas indicadas, ou
 encontrar manualmente o número da página entre colchetes: `[ ]`.
@@ -74,24 +75,4 @@ include::s1-ob1-design-instrucional-definicao.adoc[]
 include::s1-ob2-designer-autores-odl.adoc[]
 include::s1-ob3-addie.adoc[]
 
-
-O que é design instrucional?
-Design instrucional é um processo, técnica ou uma profissão?
-Qual o propósito do Design instrucional?
-
-
-
-Modelo de produção que adotaremos: ADDIE.
-
-
-
-
-Nós utilizaremos um processo de produção conhecido na literatura como ADDIE,
-que possui 5 etapas:
-
-- Análise
-- Planejamento
-- Desenvolvimento
-- Implantação
-- Validação
 

@@ -166,7 +166,7 @@ designer instrucional
 <<<
 
 [[atividade_designer_autores]]
-==== Atividade: Resolução de problemas entre designer instrucional e autores
+==== Atividade: Designer instrucional e autores
 
 image::images/patividade.pdf[]
 
