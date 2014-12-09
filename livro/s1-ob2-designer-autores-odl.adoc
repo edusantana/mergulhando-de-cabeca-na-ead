@@ -3,7 +3,7 @@
 ////
 *Entender* a relação do designer e os autores e *lembrar* o que é ODL 
 (Open Distance Learning), *classificando* quais
-tarefas são do designer e quais dos autores, *reconhecendo* a
+tarefas do designer você possui menos afinidade, *reconhecendo* a
 definição de ODL e *reproduzindo* a terminologia adotada no livro.
 
 .Organização prévia
@@ -12,6 +12,18 @@ definição de ODL e *reproduzindo* a terminologia adotada no livro.
 ////
 
 ==== Introdução
+
+A produção de materiais abertos para a educação é uma tendência mundial,
+inclusive com apoio da UNESCO. Estes materiais possibilitam reutilização
+e adaptação para atender as necessidades educacionais em diferentes 
+contextos. A Universidade Aberta do Brasil (UAB) tem em cursos a distância
+e na produção produção de materiais didáticos, que embora não utiliza
+um modelo aberto, são compartilhados entre as instituições da sua 
+rede. 
+
+O popularização da EAD contribuiu para a consolidação de um novo 
+profissional, o Designer Instrucional, você conhece o trabalho dele?
+
 
 .Questões a serem respondidas
 ****
