@@ -59,8 +59,6 @@ O curso em que você trabalha possui um Designer Instrucional?
 [[atividade_influencia_da_analise_na_escrita]]
 ==== Atividade: Influência dos produtos da etapa análise na escrita
 
-image::images/patividade.pdf[]
-
 Um dos modelos de processos que utilizaremos na nossa produção é o ADDIE. 
 Neste momento estamos nos focando apenas nas duas primeiras etapas que 
 antecedem a escrita dos conteúdos: Análise e Planejamento. 
@@ -74,42 +72,24 @@ como ele iria influenciaria a sua escrita do livro?
 ^s| Influência dos Produtos finais da etapa Análise
 | Influência do produto final _Diagnóstico das necessidades_ sua escrita:
 
-+
-
-+
-
-+
+(responda aqui)
 
 | Influência do produto final _Análise do público-alvo_ sua escrita:
 
-+
+(responda aqui)
 
-+
-
-+
 
 | Influência do produto final _Planilha de cronograma_ sua escrita:
 
-+
-
-+
-
-+
+(responda aqui)
 
 | Influência do produto final _Planilha de custo estimado_ sua escrita:
 
-+
-
-+
-
-+
+(responda aqui)
 
 | Influência do produto final _Definição dos recursos humanos, materiais, tecnológicos e financeiros_ sua escrita:
 
-+
+(responda aqui)
 
-+
-
-+
 |====
 

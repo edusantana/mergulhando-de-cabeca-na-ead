@@ -58,7 +58,7 @@ namespace "wip" do
   
   desc "build book from #{@RELEASE_DIR}"
   task :build => [WIP_ADOC, :sync] do
-    DRAFT_COMMAND = "--dblatex-opts '-P draft.mode=yes'"
+    DRAFT_COMMAND = "--dblatex-opts '-P draft.mode=no'"
     prefacio_code_att = ""
     PREFACIO_CODE_DIR = "#{@RELEASE_DIR}/#{@BOOK_SOURCE_DIR}/code/prefacio"
     if Dir.exist?(PREFACIO_CODE_DIR) then
