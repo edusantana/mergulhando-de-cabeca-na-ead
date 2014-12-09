@@ -6,6 +6,10 @@
 [glossary]
 
 
+[[ADDIE,ADDIE]] ADDIE:: Modelo de produção de material didático que possui
+5 etapas: Análise, Planejamento, Desenvolvimento, Implantação e Validação.
+
+
 [[ambiente_producao,ambiente de produção]] Ambiente de produção::
 Conjunto de ferramentas utilizadas para a produção dos livros reais, por exemplo,
 para submissão de imagens para o <<github>> é necessário o ambiente de produção.
