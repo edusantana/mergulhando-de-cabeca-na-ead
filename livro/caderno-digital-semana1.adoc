@@ -1,4 +1,6 @@
-= Caderno Digital: Semana 1
+= Caderno Digital =
+
+== Semana 1
 
 === Objetivo 1
 
@@ -6,7 +8,8 @@
 
 Para você, o que é Design Instrucional?
 
-> Registre sua resposta aqui.
+[quote]
+Registre sua resposta aqui.
 
 
 === Objetivo 2
@@ -54,6 +57,9 @@ O curso em que você trabalha possui um Designer Instrucional?
 
 - `[ ]` Não
 - `[ ]` Sim. Quem é? `____________________________`
+
+
+=== Objetivo 3
 
 
 [[atividade_influencia_da_analise_na_escrita]]
