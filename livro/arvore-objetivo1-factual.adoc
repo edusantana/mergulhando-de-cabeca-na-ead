@@ -20,9 +20,11 @@ http://ashitani.jp/gv/
 
 ==== Introdução
 
+.Descubra porque as árvores são invertidas na computação!
+image::images/cap2/arvore-invertida.pdf[scaledwidth="60%"]
+
 Nesta seção apresentamos a terminologia relacionada às árvores, e 
 os conceitos básicos. 
-
 
 .Questões a serem respondidas
 ****
@@ -64,33 +66,9 @@ ____
 
 image::images/caixa6cm.eps[]
 
-////
-.SÃO ÁRVORES
-| X     | vértices ligados por uma única aresta | conexo | ciclosless
-| Arvore|                                       |        | 
-| Arvore|                                       |        | 
-| Arvore|                                       |        | 
-| Arvore|                                       |        | 
-| Arvore|                                       |        | 
-| Arvore|                                       |        | 
-.NÃO SÃO ÁRVORES
-| N     |                                       |        | X
-| N     |                                       |        | X
-| N     |               X                       |        | 
-| N     |               X                       |        | 
-| N     |                                       |    X   | 
-| N     |                                       |    X   | 
-|====
-
-Conceitos que precisam ser mostrados:
-- vértices ligados por uma única aresta
-- conexo
-- não contem ciclos
-////
-
 .Ilustrações para elaboração do conceito de árvore
 [[fig_construindo_conceito_arvore]]
-image::images/cap2/construindo-conceito-arvore.jpg[scaledwidth="80%"]
+image::images/cap2/arvore-ou-grafo.pdf[scaledwidth="80%"]
 
 <<<
 
@@ -108,45 +86,75 @@ Você chegou a uma solução parecida?
 ****
 ////
 
-A definição formal de árvore requer relembrar apenas 4 conceitos  de
-*((grafos))*, são eles: *vértices, arestas, grafo conexo e
-ciclos*.footnote:[Caso você não se lembra destes conceitos, você
-poderá inferi-los.]  Utilizando o grafo no lado esquerdo da
-<<fig_grafo_exemplo>>, reconheça que ele possui 9 *vértices*
-(representados pelas _bolinhas_), e 10 *arestas* (representados pelos
-_traços_) ligando os vértices.  Este grafo *não é conexo*, pois existe
-um _pedaço_ do grafo que não está ligado aos demais. Por último, neste
-grafo existem quatro *ciclos*, que estão evidenciados no lado direito
-da figura.
+Você teve dificuldades em achar palavras para referenciar os
+elementos?  Precisamos lembrar de quatro conceitos de *((grafos))* para
+enunciar a definição formal de árvore, são eles: *vértices*,
+*arestas*, *ciclos* e *grafo conexo*.footnote:[Caso você não se lembra
+destes conceitos, você poderá inferi-los.]  
 
-[[fig_grafo_exemplo]]
-.Exemplo de Grafo e sua propriedades
-image::images/cap2/grafo-exemplo.jpg[scaledwidth="60%"]
+Na teoria dos grafos, as _bolinhas_ são chamadas de *vértices* e os
+_traços_ de *((arestas))* (ver <<fig_arvore_nomenclatura>>).
 
-.Definição
+[[fig_arvore_nomenclatura]]
+.Nomenclatura dos elementos dos grafos
+image::images/cap2/arvore-nomenclatura.pdf[scaledwidth="30%"]
+
+Os *ciclos* dos grafos estão apresentados na <<fig_ciclos>>. 
+
+[[fig_ciclos]]
+.Grafos com os cliclos envidenciados.
+image::images/cap2/ciclos.pdf[]
+
+Um grafo *não é conexo* quando há um vértice, ou um conjunto deles,
+sem ligação com os demais (ver <<fig_nao_conexo>>).
+
+[[fig_nao_conexo]]
+.Grafos não conexos.
+image::images/cap2/nao-conexo.pdf[]
+
+Agora que relembramos as nomenclaturas de grafo, podemos enunciar
+a definição formal de árvore:
+
+.Definição de Árvore
 ****
-*((Árvore))* é um ((grafo)) que:
+*((Árvore))* é um ((grafo)) _conexo_ e sem _ciclos_.
 
-[options="compact"]
-- Não contem ciclos;
-- É conexo;
-- E dados dois vértices ligados por uma aresta, não existe outra
-aresta que ligue os mesmos vértices;
 ****
+
+Agora que você já conhece a definição formal de árvore, tente explicar
+as razões dos grafos inferiores da <<fig_construindo_conceito_arvore>>
+não serem árvores, utilize o espaço a seguir para isso:
+
+image::images/caixa6cm.eps[]
+
+<<<
+
+.Resposta comentada
+****
+Na parte inferior da <<fig_construindo_conceito_arvore>>, todos os
+grafos da primeira linha _não são árvores porque não são conexos_, como
+evidenciados na <<fig_nao_conexo>>.
+
+Na segunda linha, todos os gafos _não são árvores porque possuem ciclos_,
+como indicados na <<fig_ciclos>>.
+
+****
+
+Embora a teoria de grafos seja essencial para compreender o que são
+árvores, as árvores possuem uma nomenclatura própria, por exemplos, 
+os vértices são chamados de nós.
 
 ===== Nó ou vértice
 
 .Definição
 ****
-*((Nó))* é qualquer vértice de uma árvore. Todos os vértices de uma árvore
-são nós. 
+Todos os vértices de uma árvore são *nós* (_plural de nó_). 
 ****
 
-Os nós (_plural de nó_) das árvores geralmente possuem _valores_
-associados, que são representados dentro deles. Na
-<<fig_arvores_com_nos_valorados>> estão apresentados os valores que
-cada nó possui. Perceba que não há restrição sobre a repetição ou
-ordem dos valores dos nós.
+Os nós das árvores geralmente possuem _valores_ associados, que são
+representados dentro deles. Na <<fig_arvores_com_nos_valorados>> estão
+apresentados os valores que cada nó possui. Perceba que não há
+restrição sobre a repetição ou ordem dos valores dos nós.
 
 .Árvores com nós e seus respectivos valores
 [[fig_arvores_com_nos_valorados]]

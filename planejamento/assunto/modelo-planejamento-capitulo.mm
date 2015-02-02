@@ -49,9 +49,13 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="1"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="2"/>
 <font SIZE="14" BOLD="true"/>
 <node TEXT="Distribua os assuntos que planeja abordar&#xa;nas subcategorias apresentadas" LOCALIZED_STYLE_REF="defaultstyle.floating" POSITION="right" ID="ID_358439706" CREATED="1416334749470" MODIFIED="1416573729608"/>
+<node TEXT="Objetivos" POSITION="right" ID="ID_1462005665" CREATED="1417353036428" MODIFIED="1417353054795">
+<edge COLOR="#0000ff"/>
+<font BOLD="true"/>
+</node>
 <node TEXT="Conhecimento&#xa;Efetivo/factual" POSITION="right" ID="ID_1648591709" CREATED="1416262186614" MODIFIED="1416398994054" MOVED="1416262194013">
 <edge COLOR="#000000"/>
 <font SIZE="10" BOLD="true"/>

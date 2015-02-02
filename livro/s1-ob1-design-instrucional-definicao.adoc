@@ -17,7 +17,7 @@ seguintes objetos:
 image::images/cap1/design-pessimo.pdf[]
 
 Como você se sentiria se fosse _obrigado_ a utilizar objetos com
-designs semelhantes para realizar as atividades que lhes seriam atribuídas
+designs semelhantes para realizar as atividades que lhes são atribuídas
 normalmente? Que *escolhas* do design dificulta que o objeto seja utilizado
 para cumprir o seu *propósito*? Reflita um pouco!
 
@@ -39,12 +39,17 @@ didático que será concebido ou adaptado.
 Nas próximas páginas irei fazer um recorte sobre vários materiais
 que falam sobre design instrucional.
 
+[WARNING]
+.Wrap
+====
 Gostaria da sua atenção especial para os seguintes pontos:
 
 - Definições de Design Instrucional (ou desenho instrucional);
 - Laçamento da *taxonomia dos objetivos educacionais* que ficou
 conhecida como *Taxonomia de Bloom* (Na próxima semana, nós 
 utilizaremos a atualização desta taxonomia para elaborar nossos objetivos);
+
+====
 
 ++++
 <remark>Wrap

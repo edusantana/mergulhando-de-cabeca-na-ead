@@ -20,6 +20,9 @@ definição de ODL e *reproduzindo* a terminologia adotada no livro.
 3. *Lembrar* do modelo ADDIE de produção, *reconhecendo* suas etapas e
 *identificando* os produtos das etapas de Análise e Planejamento.
 
+4. *Criar* o perfil do aluno do nosso curso, *produzindo* o perfil do
+aluno que você tomará como base para produção do seu material.
+
 ____
 
 .Organização prévia
@@ -57,5 +60,10 @@ image::images/patividade.pdf[]
 include::s1-ob1-design-instrucional-definicao.adoc[]
 include::s1-ob2-designer-autores-odl.adoc[]
 include::s1-ob3-addie.adoc[]
+
+////
+include ::s1-ob4-perfil-aluno.adoc[]
+////
+
 
 

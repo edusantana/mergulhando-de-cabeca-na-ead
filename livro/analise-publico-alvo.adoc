@@ -1,0 +1,197 @@
+=== Como elaborar o perfil do aluno?
+
+////
+
+- *Analisar* o público alvo da sua disciplina,
+*concluindo* quais características dos alunos serão utilizadas como álvo na condução da sua disciplina.
+
+
+.Organização prévia
+
+- caderno digital
+////
+
+
+.Questões a serem respondidas
+****
+. Qual a importância do perfil do aluno?
+. Que informações eu gostaria de saber sobre meus futuros alunos?
+. Como as informações dos alunos influenciam na elaboração e condução da disciplina?
+. Quais as principais dificuldades que foram relatadas em versões anteriores?
+. Existe um perfil alvo que irá guiar a produção do livro?
+. Onde obtenho informações dos alunos?
+****
+
+==== Importância do Perfil do aluno
+
+O perfil do aluno é importante porque possibilita realizar julgamentos sobre aspectos chaves do curso. Por exemplo, quando estamos elaborando um curso é importante levar em consideração os níveis literários, de habilidade tecnológica e os conhecimentos prévios dos alunos dos conteúdos que serão abordados.
+
+[WARNING]
+.Wrap
+====
+A página a seguir apresenta algumas decisões
+que podem ser tomadas com base no perfil do aluno.
+
+++++
+<remark>Wrap 
+    páginas: D52
+    TABLE 6. How an instructional designer uses learner profile data
+</remark>
+++++
+====
+
+<<<
+
+==== Categorias de informações do perfil do aluno
+
+Quais as características dos alunos relevantes para o design do curso? 
+
+[WARNING]
+.Wrap
+====
+As páginas seguintes apresentam categorias de informações para 
+elaborar o perfil do aluno, com foco para o público adulto e as 
+implicações para a concepção do material didático.
+
+++++
+<remark>Wrap
+    páginas: E1 E61-66
+</remark>
+++++
+
+====
+
+<<<
+
+[[atividade_atribundo_importancia_ao_perfil]]
+==== Atividade: Atribuindo importância às informações do perfil
+
+image::images/patividade.svg[]
+
+O texto apresentou as informações dos alunos dividas em categorias.
+Se você fosse atribuir uma ordem de importância a estas categorias,
+quais seriam as mais importantes para você?
+
+Utilizando as siglas fornecidas a seguir, atribua uma ordem pessoal
+de importância para as categorias:
+
+[cols="1,1"]
+|====
+| `[D]` Fatores demográficos
+| `[M]` Motivação
+| `[AP]` Fatores de aprendizagem
+| `[AN]` Antecedentes dos alunos
+| `[R]` Fatores de recursos
+| `[P]` Problemas típicos dos alunos da EAD
+| `[E]` Estilos de aprendizagem
+| 
+|====
+
+____
+
+Para mim, a categoria mais importante é a `_____`, seguindo de
+`_____`, `_____`, `_____`, `_____`, `_____` e a menos importante 
+seria `_____`.
+
+____
+
+Justifique seu ponto de vista:
+
+image::images/caixa6cm.svg[]
+
+<<<
+
+[NOTE]
+.Feedback
+====
+Esta atividade possui um propósito reflexivo, _não há respostas certas
+ou erradas_. 
+
+Atribuindo uma sequência de importância você estará refletindo sobre 
+quais os elementos que você considera crucial e que provavelmente 
+iria influenciar a sua escrita.
+
+Também esperamos que você *sinta a necessidade* de obter estas 
+informações antes de elaborar o seu conteúdo.
+====
+
+==== Criar ou obter o perfil do aluno?
+
+O perfil do aluno é dinâmico, está sempre mudando com o ingresso
+de novos alunos -- o perfil do aluno muda inclusive ao decorrer do
+curso.
+
+Desta forma, como seria possível elaborar o perfil do aluno que está
+ingressando na minha disciplina?
+
+Muitos professores costumam aplicar um questionário para conhecer os
+seus alunos no início da disciplina. No início de cada semestre o
+aluno se deparada com vários professores perguntando informações
+semelhantes.
+
+O livro _Building on Success: Helping students make transitions from
+year to year_ disponível em (
+https://education.alberta.ca/media/352661/build.pdf ) possui diversas
+técnicas para possibilitar o aluno criar o seu perfil e mantê-lo
+atualizado.  *Embora ele tenha sido concebido para o público
+infantil*, percebemos que temos uma necessidade semelhante.
+
+[WARNING]
+.Wrap
+====
+
+Confira uma seção de introdução sobre a elaboração do 
+perfil do aprendente. O livro foi elaborado para professores do
+ensino infântil, e demonstra soluções para o problema de conhecer
+os alunos.
+
+++++
+<remark>Wrap
+    páginas: F1 F7-8
+</remark>
+++++
+
+====
+
+<<<
+
+
+[[atividade_implicacoes_do_perfil]]
+==== Atividade: Obtendo o perfil do aluno atualizado
+
+Como o perfil do aluno é dinâmico, muitos cursos elaboram
+apenas o _Perfil de Ingresso_ do aluno -- ele pode ser o seu ponto 
+de partida.
+
+Que estratégia é adotada pela _coordenação do curso_ e por você para
+elaborar e manter atualizado o perfil do aluno do seu curso?
+
+image::images/caixa6cm.svg[]
+
+<<<
+
+[NOTE]
+.Feedback
+====
+
+O perfil do aluno pode ser atualizado nas reuniões pedagógicas 
+do curso ou provido individualmente pelos alunos no início ou 
+final de cada disciplina.
+
+É importante que você conheça a estratégia adotada pela
+coordenação para obter e atualizar o perfil.
+
+====
+
+////
+===== Problemas ou dificuldades dos alunos
+
+Complementando a seção sobre os problemas dos alunos, para o nosso 
+curso de licenciatura em computação a distância, uma pesquisa realizada
+com a primeira turma do curso 
+
+
+- Consultar o público no início
+- Aproveitar de outros cursos similares
+- O curso de computação
+////

@@ -1,0 +1,29 @@
+== Primeira etapa: Análise
+
+:cap: analise
+:img: images/{cap}
+
+.Objetivos do capítulo
+____
+Ao final desta semana você deverá ser capaz de:
+
+- *Analisar* o público alvo da sua disciplina,
+*concluindo* quais características dos alunos serão utilizadas como alvo na condução da sua disciplina.
+
+- *Analisar* as necessidades dos alunos,
+*organizando* quais necessidades devem ser trabalhadas durante a disciplina.
+
+- *Criar* um cronograma para produção do livro,
+*planejando* a execução das etapas do projeto.
+
+- *Lembrar* dos itens que influenciam no custo do projeto,
+*reproduzindo* estes itens.
+
+- *Entender* os recursos humanos, materiais, tecnológicos disponíveis para a produção,
+*explicando* como cada recurso pode ser utilizado na sua produção.
+
+
+include::analise-publico-alvo.adoc[]
+
+
+
